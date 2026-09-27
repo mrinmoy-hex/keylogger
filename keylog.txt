@@ -1,0 +1,2 @@
+hello reader, I'm just writing this file just to check the keylogger program actually printing the live text or not
+as i'm getting issue to print the live characters, don't know why 
